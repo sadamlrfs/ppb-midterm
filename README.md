@@ -1,8 +1,7 @@
 # MINI-PROJECT MID TERM PPB
 
 # Video Penjelesan
-
-https://drive.google.com/file/d17V-gO-RCUHzQGo4yhIXvYmG5x9y011II/view?usp=sharing
+[https://drive.google.com/file/d17V-gO-RCUHzQGo4yhIXvYmG5x9y011II/view?usp=sharing](https://drive.google.com/file/d/17V-gO-RCUHzQGo4yhIXvYmG5x9y011II/view?usp=drive_link)
 
 # Video Demo
 
