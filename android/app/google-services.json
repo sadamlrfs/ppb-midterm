@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758102825814",
+    "project_id": "ppb-midterm",
+    "storage_bucket": "ppb-midterm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758102825814:android:0f21396b3b3d76c48454f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758102825814-sv4jg3bl0egedahc6vc6gb9d349q0kt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtzVfoitA0xImaJRQzKOWNBsznsZ1B81k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758102825814-sv4jg3bl0egedahc6vc6gb9d349q0kt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
